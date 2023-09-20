@@ -1,0 +1,10 @@
+.recipes{
+    margin: 0 auto;
+    /* margin-left: 20px; */
+    width: 80%;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+  }
